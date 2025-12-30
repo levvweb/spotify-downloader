@@ -171,7 +171,7 @@ const App: React.FC = () => {
           <span className="font-extrabold text-xl tracking-tight gradient-text">SpotDown</span>
         </div>
         <div className="flex items-center gap-5">
-           <a href="https://github.com" target="_blank" className="text-neutral-500 hover:text-neutral-900 transition-colors p-2 hover:scale-110 active:scale-95 transition-transform">
+           <a href="https://github.com/levvweb/spotify-downloader" target="_blank" className="text-neutral-500 hover:text-neutral-900 transition-colors p-2 hover:scale-110 active:scale-95 transition-transform">
              <Github size={20} />
            </a>
         </div>
@@ -359,7 +359,7 @@ const App: React.FC = () => {
 
         <div className="text-neutral-400 text-[13px] font-bold tracking-tight text-center opacity-60 mt-4">
           <p>
-            Source code tersedia secara terbuka <a href="https://github.com" target="_blank" className="underline text-emerald-500 hover:text-emerald-600 transition-colors">disini</a>
+            Source code tersedia secara terbuka <a href="https://github.com/levvweb/spotify-downloader" target="_blank" className="underline text-emerald-500 hover:text-emerald-600 transition-colors">disini</a>
           </p>
         </div>
       </footer>
