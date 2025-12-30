@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/spotdown/:match*",
+            "destination": "https://spotdown.org/api/:match*"
+        }
+    ]
+}
